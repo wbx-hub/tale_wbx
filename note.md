@@ -10,3 +10,10 @@ http://127.0.0.1:4000/tale_wbx/
 * https://xiaoxuchen.github.io/
   * https://github.com/xiaoxuchen/xiaoxuchen.github.io
 
+# Commit and push
+git add .
+git commit -m "basic setup"
+git push origin master
+
+# Visit
+https://wbx-hub.github.io/tale_wbx/
