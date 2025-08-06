@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          默村
+description:    "Home"
+baseurl:        "/tale_wbx"
+url:            "https://wbx-hub.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Bingxun Wang
+  url:          https://wbx-hub.github.io/tale_wbx
+  email:        wbx2022@gmail.com
 
 # Build settings
 markdown:       kramdown
