@@ -51,6 +51,6 @@ permalink: /about/
 
 ## Contact
 
-- **Email:** wbx2022[at]gmail.com
+- **Email:** [wbx2022@gmail.com](mailto:wbx2022@gmail.com)
 - **GitHub:** [wbx-hub](https://github.com/wbx-hub)
 - **ResearchGate:** [Bingxun Wang](https://www.researchgate.net/profile/Bingxun-Wang-3?ev=hdr_xprf)
