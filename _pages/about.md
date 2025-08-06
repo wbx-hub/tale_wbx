@@ -19,12 +19,12 @@ permalink: /about/
 
 ## Background
 
-| Degree         | Institution                     | Years         | Major                                 |
-|:-------------- |:------------------------------ |:------------- |:-------------------------------------- |
-| **PhD (incoming)** | Politecnico di Milano          | 2025–2028     | Data Analytics & Decision Sciences     |
-| **PhD (ongoing)**  | Tongji University              | 2024–2028     | Transportation Engineering             |
-| **MSc**            | Tongji University              | 2021–2024     | Transportation Engineering             |
-| **BSc**           | Southwest Jiaotong University  | 2017–2021     | Transportation                         |
+| Degree | Institution | Years | Major |
+|:---|:---|:---|:---|
+| **PhD (incoming)** | [Politecnico di Milano](https://www.polimi.it/en/) | 2025–2028 | Data Analytics & Decision Sciences |
+| **PhD (ongoing)** | [Tongji University](https://www.tongji.edu.cn/eng/) | 2024–2028 | Transportation Engineering |
+| **MSc** | [Tongji University](https://www.tongji.edu.cn/eng/) | 2021–2024 | Transportation Engineering |
+| **BSc** | [Southwest Jiaotong University](https://en.swjtu.edu.cn/index.jsp?urltype=tree.TreeTempUrl&wbtreeid=1001) | 2017–2021 | Transportation |
 
 ## Research Interests
 
@@ -46,8 +46,8 @@ permalink: /about/
 
 ## Experience
 
-- **Data Analyst Intern**, Shanghai NIO Automobile Co., Ltd., <ins>Shanghai, China</ins>
-- **Traffic Engineer Intern**, Henan Traffic Design & Research Group Co., Ltd., <ins>Zhengzhou, China</ins>
+- **Data Analyst Intern**, Shanghai NIO Automobile Co., Ltd., *Shanghai, China*
+- **Traffic Engineer Intern**, Henan Traffic Design & Research Group Co., Ltd., *Zhengzhou, China*
 
 ## Contact
 
