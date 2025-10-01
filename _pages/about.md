@@ -12,7 +12,7 @@ permalink: /about/
     <div style="flex: 1;">
         <h2 style="margin-top:0;">Hi, I'm Bingxun Wang</h2>
         <p>
-            I'm currently a PhD student in Transportation Engineering at Tongji University. My research focuses on developing individual/collective mobility models to understand passenger behavior and demand in urban metro systems.
+            I'm currently a PhD student in Transportation Engineering at Tongji University. My research focuses on developing human mobility models to understand passenger behavior and demand in metro systems.
         </p>
     </div>
 </div>
