@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Academic Journey Abroad: Presenting in Kyoto, Japan"
+title: "Academic Journey to Kyoto"
 author: "Bingxun Wang"
 tags: [travel, conference]
 ---
